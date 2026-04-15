@@ -18,8 +18,8 @@ See [`_docs/pi-mono-oop-uml-architecture.md`](./_docs/pi-mono-oop-uml-architectu
 
 This repository is an educational derivative work inspired by [pi-mono](https://github.com/badlogic/pi-mono) by **Mario Zechner** ([@badlogic](https://github.com/badlogic)). The file layouts, class names, and API shapes mirror pi-mono's.
 
-pi-mono is distributed under the MIT License (© 2025 Mario Zechner). A copy of that license is included at [`LICENSES/pi-mono-LICENSE`](./LICENSES/pi-mono-LICENSE).
+pi-mono is distributed under the MIT License. A copy of that license is included at [`LICENSES/pi-mono-LICENSE`](./LICENSES/pi-mono-LICENSE).
 
 ## License
 
-This stub repository's own code is MIT-licensed (© 2026 Kittipos Sirivongrungson) — see [`LICENSE`](./LICENSES/LICENSE).
+This stub repository's own code is MIT-licensed — see [`LICENSE`](./LICENSES/LICENSE).
